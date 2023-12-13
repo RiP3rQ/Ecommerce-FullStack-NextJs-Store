@@ -1,6 +1,12 @@
 
 # 💵  E-commerce (Frontend) 
 
+# App based on the tutorial off CodeWithAntonio
+
+Youtube: https://www.youtube.com/@codewithantonio
+
+Tutorial: https://youtu.be/5miHyP6lExg?si=6SolHhl3cqfzqGuf
+
 ## Tech stack
 
 - **React**
