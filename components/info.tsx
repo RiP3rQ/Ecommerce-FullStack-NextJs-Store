@@ -11,7 +11,9 @@ interface InfoProps {
 }
 
 const Info: React.FC<InfoProps> = ({ data }) => {
-  const onAddToCart = () => {};
+  const onAddToCart = () => {
+    useCart.getState().addItem(data);
+  };
 
   return (
     <div>
